@@ -48,7 +48,7 @@ Convert Mail User to Remote Mailbox
 This script requires the Active Directory and ExchangePowerShell modules to be installed on the machine running the script.
 The modules it self will be loaded when the script is executed.
 
-"samaccountname","Mail"
+"Samaccountname","Mail"
 
 ## Author
 Drago Petrovic
